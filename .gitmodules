@@ -1,12 +1,6 @@
-[submodule "skills/asana-cli"]
-	path = skills/asana-cli
-	url = git@github.com:dtonair/asana-cli.git
-[submodule "skills/bitbucket-cli"]
-	path = skills/bitbucket-cli
-	url = git@github.com:dtonair/bitbucket-cli.git
-[submodule "skills/figma-cli"]
-	path = skills/figma-cli
-	url = git@github.com:dtonair/figma-cli.git
-[submodule "skills/confluence-cli"]
-	path = skills/confluence-cli
-	url = git@github.com:dtonair/confluence-cli.git
+[submodule "packages/pi-loop"]
+	path = packages/pi-loop
+	url = git@github.com:thaodangspace/pi-loop.git
+[submodule "packages/pi-hc-subagents"]
+	path = packages/pi-hc-subagents
+	url = git@github.com:thaodangspace/pi-hc-subagents.git
